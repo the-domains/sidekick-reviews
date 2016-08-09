@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[sidekick.reviews]]></title>
         <description><![CDATA[sidekick.reviews]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sidekick-reviews/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 19:43:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Aug 2016 20:27:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sidekick-reviews/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/793c3a7e-e449-422d-b507-b5067729779e.jpg">]]></description>
+            <link>https://thegrid.ai/sidekick-reviews/american-safari/index.html</link>
+            <guid isPermaLink="false">507199d6-6c7c-4912-8ab0-2c473674af53</guid>
+            <pubDate>Tue, 09 Aug 2016 20:27:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Test</p>]]></description>
-            <link>undefinedtest/index.html</link>
+            <link>https://thegrid.ai/sidekick-reviews/test/index.html</link>
             <guid isPermaLink="false">5ff666ff-f9a0-4ddf-b2a0-80891a2720b5</guid>
             <pubDate>Tue, 05 Apr 2016 19:43:38 GMT</pubDate>
         </item>
